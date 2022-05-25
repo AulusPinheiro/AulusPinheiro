@@ -1,4 +1,4 @@
-- 👋 Eu sou @AulusPinheiro
+- 👋 Eu sou Desenvolvedor FrontEnd
 - 👀 Produrando emprego de FrontEnd
 - 📫 Como me encontrar (https://www.linkedin.com/in/aulus-campos-a89111102/)
 
