@@ -1,6 +1,5 @@
-- 👋 Olá mundo, Eu sou @AulusPinheiro
-- 👀 Produrando primeiro emprego como DEV
-- 🌱 Eu estou estudando Frontend
+- 👋 Eu sou @AulusPinheiro
+- 👀 Produrando emprego de FrontEnd
 - 📫 Como me encontrar (https://www.linkedin.com/in/aulus-campos-a89111102/)
 
 <!---
